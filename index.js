@@ -22,7 +22,7 @@ function inc(n){
     parseInt(n, 10)
     return n
   }
-  function preserveDecimal(n) {f
+  function preserveDecimal(n) {
     parseFloat(n)
     return n 
   }
